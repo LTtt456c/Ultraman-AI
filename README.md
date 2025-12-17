@@ -1,23 +1,23 @@
-#Ultraman-AI
+# Ultraman-AI
 
-Ultraman-AI is an artificial intelligence-based Ultraman knowledge base system, which integrates Ultraman's Knowledge Graph, character relationship graph, and supports question answering function based on real-time query. Through RAG (Retrieval-Augmented Generation) technology, users can obtain Ultraman-related knowledge information at any time.
+Ultraman-AI is an AI-powered knowledge system about Ultraman, integrating Ultraman's knowledge graph, character relationship graph, and supporting real-time Q&A functionality. By using RAG (Retrieval-Augmented Generation), users can query up-to-date information related to Ultraman.
 
-##function
+## Features
 
-- ** Ultraman Knowledge Graph **: Constructs a rich Knowledge Graph in the Ultraman universe, containing detailed information about the Ultraman series of monsters, warriors, story backgrounds, and more.
-- ** Character Relationship Graph **: Shows the relationship graph between Ultraman and other characters, helping users understand the interactions between characters.
-Real-time Q & A: Through the RAG model, users can conduct queries based on real-time data to obtain answers to relevant questions.
+- **Ultraman Knowledge Graph**: A rich graph of knowledge about the Ultraman universe, including monsters, warriors, story backgrounds, and more.
+- **Character Relationship Graph**: A visual representation of the relationships between Ultraman and other characters, helping users understand character interactions.
+- **Real-time Q&A**: By leveraging RAG models, users can ask questions and get answers based on real-time data.
 
-##technology stack
+## Tech Stack
 
-RAG (Retrieval-Augmented Generation): For real-time knowledge query and generation.
-- ** Python **: Core development language.
-- ** Graph Database **: Knowledge Graph for storing and managing Ultraman.
-- ** Hugging Face Transformers **: natural language processing library.
+- **RAG (Retrieval-Augmented Generation)**: For real-time knowledge querying and generation.
+- **Python**: The primary programming language used.
+- **Graph Database**: For storing and managing the Ultraman knowledge graph.
+- **Hugging Face Transformers**: For natural language processing.
 
-##Install and run
+## Installation & Running
 
-1. Clone the project:
+1. Clone the repository:
 
-"bash
-Git clone https://github.com/yourusername/Ultraman-AI.git
+```bash
+git clone https://github.com/yourusername/Ultraman-AI.git
